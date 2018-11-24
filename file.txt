@@ -1,2 +1,0 @@
-
-<Html></H1>This is my second index.html file</H1></Html>
